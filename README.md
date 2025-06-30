@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://github.com/IstiakAR/IstiakAR/blob/main/runner.gif"  />
 
-<h2 align="left">Hi 👋! My name is Istiak Ahammed Rhyme</h2>
+<h3 align="left">Hi 👋! My name is Istiak Ahammed Rhyme</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
