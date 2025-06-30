@@ -15,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="discordapp.com/users/719816521265971220" target="_blank">
