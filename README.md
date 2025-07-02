@@ -67,6 +67,7 @@
   
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   
 </div>
 
@@ -91,11 +92,21 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=pacman_sdl2&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Social-Media&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=dotfiles&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Memory-Card&theme=jolly" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Etch-a-Sketch&theme=jolly" />
+    <a href="https://github.com/IstiakAR/pacman_sdl2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=pacman_sdl2&theme=jolly" />
+    </a>
+    <a href="https://github.com/IstiakAR/Social-Media">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Social-Media&theme=jolly" />
+    </a>
+    <a href="https://github.com/IstiakAR/dotfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=dotfiles&theme=jolly" />
+    </a>
+    <a href="https://github.com/IstiakAR/Memory-Card">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Memory-Card&theme=jolly" />
+    </a>
+    <a href="https://github.com/IstiakAR/Etch-a-Sketch">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Etch-a-Sketch&theme=jolly" />
+    </a>
 </div>
 
 ## 📊 GitHub Stats
