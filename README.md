@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IstiakAR/IstiakAR/main/assets/runner.gif" width="500">
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
