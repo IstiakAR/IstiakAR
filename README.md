@@ -75,23 +75,6 @@
   
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-    <a href="https://github.com/IstiakAR/Automation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Automation&theme=nord" />
-    <a href="https://github.com/IstiakAR/DU-Shop">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=DU-Shop&theme=nord" />
-    <a href="https://github.com/IstiakAR/Social-Media">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Social-Media&theme=nord" />
-    <a href="https://github.com/IstiakAR/EduAI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=EduAI&theme=nord" />
-    <a href="https://github.com/IstiakAR/Pacman">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Pacman&theme=nord" />
-    <a href="https://github.com/IstiakAR/Among-Us">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IstiakAR&repo=Among-Us&theme=nord" />
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
