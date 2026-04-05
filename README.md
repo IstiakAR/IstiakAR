@@ -75,22 +75,4 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=IstiakAR&theme=nord&hide_border=false" />
-  
-  <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiakAR&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=6&card_width=320" />
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IstiakAR&theme=nord&show_icons=true&include_all_commits=true&hide_border=false&count_private=true" />
-  
-  <!-- GitHub Activity Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IstiakAR&theme=nord&hide_border=true" />
-  
-</div>
-
 </div>
